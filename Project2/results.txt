@@ -1,0 +1,10 @@
+wierzcholek 0: waga-0 droga: wierzcholek poczatkowy
+wierzcholek 1: waga-4 droga: ->0
+wierzcholek 2: waga-5 droga: ->1->0
+wierzcholek 3: waga-4 droga: ->0
+wierzcholek 4: waga-4 droga: ->0
+wierzcholek 5: waga-5 droga: ->1->0
+wierzcholek 6: waga-3 droga: ->0
+wierzcholek 7: waga-5 droga: ->0
+wierzcholek 8: waga-4 droga: ->0
+wierzcholek 9: waga-6 droga: ->0
